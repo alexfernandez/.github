@@ -13,7 +13,8 @@ My most successful project is
 which is a Node.js package used worldwide for, you guessed it, load testing.
 
 My project [LibreCounter.org](https://librecounter.org/)
-may also be of interest to you, dear visitor.
+may also be of interest to you, dear visitor:
+GDPR Compliant analytics for your website.
 
 ## Interests
 
