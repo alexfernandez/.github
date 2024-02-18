@@ -1,10 +1,10 @@
 # Alex Fernández
 
-A software engineer with 20+ years of experience in most branches of software development.
+A software engineer with 25+ years of experience in most branches of software development.
 I have worked as CTO, project manager,
 backend senior engineer, SRE and more.
 I have also taught several courses and bootcamps.
-I am currently working as a freelancer doing backend development and scalability work.
+See my [updated CV](https://pinchito.es/cv) for details.
 
 ## Featured Projects
 
@@ -12,11 +12,14 @@ My most successful project is
 [loadtest](https://github.com/alexfernandez/loadtest),
 which is a Node.js package used worldwide for, you guessed it, load testing.
 
+My project [LibreCounter.org](https://librecounter.org/)
+may also be of interest to you, dear visitor.
+
 ## Interests
 
 I like working in scalable, demanding environments.
 
-## Curriculum Vitae
+## Blog
 
-Please visit my [updated CV](https://pinchito.es/cv).
+Please visit my [personal site](https://pinchito.es/).
 
